@@ -1,0 +1,55 @@
+body{
+    background-color: aquamarine;
+
+}
+.main{
+    background-color: azure;
+    width: 1080px;
+    height: 1920px;
+    position: relative;
+    margin: auto;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+}
+menu{
+    display: block;
+    background-color: #b1b1b1;
+}
+.navbar{
+    height: 65px;
+    background-color: #b1b1b1;
+    position: relative;
+}
+ul{
+    text-align: center ;
+}
+ul.navbar-nav{
+    font-size: 24px;
+}
+.navbar-collapse{
+    font-size: 24px;
+    background-color: #f8f9fa;
+    z-index: 2;
+}
+
+.dropdown-menu{
+    background-color: #f8f9fa;
+}
+
+.item-info{
+    background-color: bisque;
+    width: 270px;
+    height: 550px;
+    float: right;
+    border-style: solid;
+}
+.foto{
+    height: 230px;
+    width: 263px;
+    position: relative;
+}
+.info-text{
+    padding-left: 30px;
+}
