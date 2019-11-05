@@ -17,16 +17,17 @@ menu{
     display: block;
     background-color: #b1b1b1;
 }
-.navbar{
+.navbar {
     height: 65px;
     background-color: #b1b1b1;
-    position: relative;
+    position: center;
 }
 ul{
     text-align: center ;
 }
 ul.navbar-nav{
     font-size: 24px;
+    padding-left: 740px;
 }
 .navbar-collapse{
     font-size: 24px;
@@ -52,4 +53,26 @@ ul.navbar-nav{
 }
 .info-text{
     padding-left: 30px;
+}
+#main-switch{
+    font-size: 40px;
+}
+.nav-item{
+    padding-right: 30px;
+}
+
+.szafir-card{
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    width: 350px;
+    padding: 20px;
+    border-style: solid;
+    top: 20px;
+    position: absolute;
+}
+.szafir-photo{
+    width: 300px;
+    height: 330px;
+}
+.info{
+    text-align: center;
 }
